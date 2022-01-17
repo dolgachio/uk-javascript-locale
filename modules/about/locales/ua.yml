@@ -1,0 +1,74 @@
+title: About the project
+text: >
+  <p>The Modern JavaScript Tutorial was created in 2007 by Ilya Kantor, and regularly updated since then. New chapters were added, outdated ones - removed, to stay fresh. The PDF version is about 1300 pages, starting from the beginning, and then to advanced topics.</p>
+  <p>It's a book, not a video, as for many people reading is faster. Also, books are easier to update, keep modern :).</p>
+  <p>The content of this tutorial is <a href="https://github.com/javascript-tutorial/en.javascript.info">open source</a> and everyone is welcome to contribute.</p>
+
+contacts:
+  block_title: Contacts
+  people:
+    ilya_kantor: Ilya Kantor
+
+maintainers: Tutorial maintainers
+repo: The tutorial repository is at <a href="#{url}">#{url}</a>.
+
+team:
+  block_title: The team
+  photo: Photo
+
+  members:
+    - name: "Ilya Kantor"
+      profileName: 'ilya-kantor'
+      url: 'https://javascript.info/profile/ilya-kantor'
+      photo: '/team/iliakan.jpg'
+      role: creator
+    - name: "Alexey Maximov"
+      profileName: aleksey-maximov
+      url: 'https://www.linkedin.com/in/amaxcz/'
+      photo: '/team/amax.jpg'
+      role: admin
+    - name: "Artem Beztsinniy"
+      profileName: artem-beztsenniy
+      url: 'https://javascript.info/profile/artem-beztsenniy'
+      photo: '/team/bezart.jpg'
+      role: "designer"
+    - name: "Sergey Zelenov"
+      profileName: sergey-zelenov
+      url: 'https://javascript.info/profile/sergey-zelenov'
+      photo: '/team/sergey.jpg'
+      role: "developer_teacher"
+    - name: "Stepan Suvorov"
+      profileName: stepan-suvorov
+      url: 'https://twitter.com/stevermeister'
+      photo: '/team/stepan.jpg'
+      role: "angular"
+    
+
+  role:
+    creator: Author, trainer, JS-developer
+    admin: System Administrator
+    teacher: Teacher
+    designer: Designer
+    markup: Markup
+    developer_teacher: JS-developer, teacher
+    angular: Angular trainer
+
+issues:
+  block_title: Bug or typo? Great idea?
+  text: Please <a href="#{repoUrl}/issues/new" rel="noopener noreferrer" target="_blank">create an issue</a> on our github.
+
+translation:
+  block_title: Help us translate
+
+contributors:
+  contributor: Contributor
+  contributors: Contributors
+  lines: Lines
+  percent: Percent
+  github_unknown: GitHub account unknown
+  show_all: Show all
+  description: >
+    <p>The list below includes all contributors-authors of 10+ lines of the tutorial. The full list of contributors is available at <a href="#{url}/graphs/contributors">github</a>.</p>
+    <p>It's very easy to become listed. Just write an article or propose fixes in the <a href="#{url}">tutorial repository</a>. And get everyone's thanks.</p>
+  description_note_en:
+    <p>This is the translated version of the <a href="https://javascript.info">tutorial in English</a>.</p>

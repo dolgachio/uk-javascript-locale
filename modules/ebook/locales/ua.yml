@@ -1,0 +1,49 @@
+build_at: Built at
+last_version: The last version of the tutorial is at <a href="#{url}">#{url}</a>
+tracker_ref: We constantly work to improve the tutorial. If you find any mistakes, please write at <a href="#{url}/issues/new">our github</a>
+tasks: Tasks
+importance: importance
+to_solution: To solution
+solutions: Solutions
+to_formulation: To formulation
+more: Additional series
+
+newOrder:
+  title: Buy EPUB/PDF for offline reading
+  sample: Download sample
+  choose_course: Which parts of the tutorial you want?
+  price: Price
+  specifyEmail: Specify your email
+  note: The download link will be sent to this address after payment.
+  choose_payment: Select the payment method, please
+  continue: Continue
+  continue_text: By pressing the button 'Continue' you agree to our <a href="/terms">terms</a> and <a href="/privacy">privacy policy</a>.
+  confirmation: Confirmation
+  currency: USD
+  continue_with_paypal: Pay with PayPal
+  continue_with_stripe: Pay via Stripe
+  continue_pay: Proceed with payment
+  info: >
+    <p><strong>PDF/EPUB</strong> book is an offline version of the tutorial. Buying this book, you support the project and become able to read the tutorial as e-book.</p>
+    <p>You get the whole content as of now, plus 1 year of free updates.</p>
+
+orders:
+  order: Order
+  failed: Payment failed, please try again later.
+  currency: $
+  payment: Payment
+  successful: Successful
+  pending: Confirmation pending
+  amount: Price
+  choose_another_payment: Choose another payment method
+  do_not_pay_twice: Do not pay twice. Change payment method only if you are sure that payment failed.
+  questions: If you have any questions please send them to
+  thanks: Payment successful, thanks for your purchase!
+  download: Download ebook
+  confirmation_soon: "The confirmation was sent to <b>#{email}</b>"
+  download_now: "You can download the tutorial right now using this link:"
+  link_active_3_months: The link will be active for 1 year, with the latest tutorial build.
+client:
+  enter_email: Enter email.
+onPaid:
+  subject: JavaScript Tutorial EPUB/PDF
