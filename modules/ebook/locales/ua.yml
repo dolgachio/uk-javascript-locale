@@ -1,49 +1,49 @@
-build_at: Built at
-last_version: The last version of the tutorial is at <a href="#{url}">#{url}</a>
-tracker_ref: We constantly work to improve the tutorial. If you find any mistakes, please write at <a href="#{url}/issues/new">our github</a>
-tasks: Tasks
-importance: importance
-to_solution: To solution
-solutions: Solutions
-to_formulation: To formulation
-more: Additional series
+build_at: Побудовано на
+last_version: Актуальна версія підручника знаходиться за адресою <a href="#{url}">#{url}</a>
+tracker_ref: Ми постійно працюємо над покращенням підручника. Якщо ви знайдете якісь помилки, пишіть на <a href="#{url}/issues/new">нашому github</a>
+tasks: Завдання
+importance: важливість
+to_solution: До рішення
+solutions: Рішення
+to_formulation: До формулювання
+more: Додаткові серії
 
 newOrder:
-  title: Buy EPUB/PDF for offline reading
-  sample: Download sample
-  choose_course: Which parts of the tutorial you want?
-  price: Price
-  specifyEmail: Specify your email
-  note: The download link will be sent to this address after payment.
-  choose_payment: Select the payment method, please
-  continue: Continue
-  continue_text: By pressing the button 'Continue' you agree to our <a href="/terms">terms</a> and <a href="/privacy">privacy policy</a>.
-  confirmation: Confirmation
+  title: Купуйте EPUB/PDF для читання офлайн
+  sample: Завантажити зразок
+  choose_course: Які частини підручника ви хочете придбати?
+  price: Ціна
+  specifyEmail: Вкажіть свою електронну адресу
+  note: Посилання для завантаження буде надіслано на цю адресу після оплати.
+  choose_payment: Виберіть спосіб оплати, будь ласка
+  continue: Продовжити
+  continue_text: Натискаючи кнопку 'Продовжити', ви приймаєте наші <a href="/terms">умови</a> та <a href="/privacy">політику конфіденційності</a>.
+  confirmation: Підтвердження
   currency: USD
-  continue_with_paypal: Pay with PayPal
-  continue_with_stripe: Pay via Stripe
-  continue_pay: Proceed with payment
+  continue_with_paypal: Сплачуйте за допомогою PayPal
+  continue_with_stripe: Оплата через Stripe
+  continue_pay: Перейти до оплати
   info: >
-    <p><strong>PDF/EPUB</strong> book is an offline version of the tutorial. Buying this book, you support the project and become able to read the tutorial as e-book.</p>
-    <p>You get the whole content as of now, plus 1 year of free updates.</p>
+    <p><strong>PDF/EPUB</strong> – це офлайн версія підручника. Купуючи цю книгу, ви підтримуєте проект і отримуєте можливість читати підручник як електронну книгу.</p>
+    <p>Ви отримуєте весь вміст, а також 1 рік безкоштовних оновлень.</p>
 
 orders:
-  order: Order
-  failed: Payment failed, please try again later.
+  order: Замовлення
+  failed: Не вдалося здійснити платіж, спробуйте пізніше.
   currency: $
-  payment: Payment
-  successful: Successful
-  pending: Confirmation pending
-  amount: Price
-  choose_another_payment: Choose another payment method
-  do_not_pay_twice: Do not pay twice. Change payment method only if you are sure that payment failed.
-  questions: If you have any questions please send them to
-  thanks: Payment successful, thanks for your purchase!
-  download: Download ebook
-  confirmation_soon: "The confirmation was sent to <b>#{email}</b>"
-  download_now: "You can download the tutorial right now using this link:"
-  link_active_3_months: The link will be active for 1 year, with the latest tutorial build.
+  payment: Оплата
+  successful: Успішно
+  pending: Очікує підтвердження
+  amount: Ціна
+  choose_another_payment: Виберіть інший спосіб оплати
+  do_not_pay_twice: Не платіть двічі. Змінюйте спосіб оплати, лише якщо ви впевнені, що платіж не пройшов.
+  questions: Якщо у вас є запитання, надішліть їх на адресу
+  thanks: Оплата успішна, дякую за покупку!
+  download: Завантажити електронну книгу
+  confirmation_soon: "Підтвердження надіслано на <b>#{email}</b>"
+  download_now: "Ви можете завантажити підручник прямо зараз за цим посиланням:"
+  link_active_3_months: Посилання буде активним протягом 1 року з останньою збіркою підручника.
 client:
-  enter_email: Enter email.
+  enter_email: Введіть адресу електронної пошти.
 onPaid:
-  subject: JavaScript Tutorial EPUB/PDF
+  subject: Підручник з JavaScript EPUB/PDF

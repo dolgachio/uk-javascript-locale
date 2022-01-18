@@ -1,4 +1,4 @@
-run: run
-show: show
+run: запустити  
+show: показати
 open:
-  sandbox: open in sandbox
+  sandbox: відкрити в пісочниці

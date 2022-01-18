@@ -1,38 +1,38 @@
 client:
-  choose_payment_method: Select the payment method, please
-  specify_company_name: Specify company name
+  choose_payment_method: Виберіть спосіб оплати, будь ласка
+  specify_company_name: Вкажіть назву компанії
   error_start_again: >
-    <p>#{message}</p><p>Please try purchase again.</p>
-    <p>If you think that there is an error on server - contact with <a href='mailto:#{email}'>
-    customer service</a>.</p>
+    <p>#{message}</p><p>Спробуйте придбати ще раз.</p>
+    <p>Якщо ви вважаєте, що на сервері сталася помилка, зв’яжіться зі <a href='mailto:#{email}'>
+    службою обслуговування клієнтів</a>.</p>
   maybe_purchase_error: >
-    <p>#{message}</p><p>If you think an error has occurred &mdash;
-    please contact with <a href='mailto:#{email}'>customer service</a>.</p>
+    <p>#{message}</p><p>Якщо ви вважаєте, що сталася помилка &mdash;
+    зверніться до <a href='mailto:#{email}'>служби обслуговування клієнтів</a>.</p>
   purchase_error: >
-    An error has occurred, please contact with <a href='mailto:#{email}'>customer service</a>.
+    Сталася помилка, зверніться до <a href='mailto:#{email}'>служби обслуговування клієнтів</a>.
 
 currency: "USD"
 
-payment_for: "Payment for"
-payment: Payment
-pay: Pay
+payment_for: "Оплата за"
+payment: Оплата
+pay: Оплатити
 
-payment_received: Payment received
-payment_processing: Pending processing
-payment_received_processing: Payment received, processing
-payment_error: An error occured
-payment_error_accent: An error has occured during payment processing.
-payment_failed: Payment failed
-payment_failed_try_again: Payment failed, please try again
-payment_success_description: "<p>We'll send you an email to <b>#{orderEmail}</b>.</p><p>If you have any questions, please send them to #{mailLink}.</p>"
+payment_received: Платіж отримано
+payment_processing: Очікує на обробку
+payment_received_processing: Платіж отримано, обробка
+payment_error: Сталася помилка
+payment_error_accent: Під час обробки платежу сталася помилка.
+payment_failed: Не вдалося оплатити
+payment_failed_try_again: Не вдалося оплатити, спробуйте ще раз
+payment_success_description: "<p>Ми надішлемо вам електронного листа на адресу <b>#{orderEmail}</b>.</p><p>Якщо у вас виникли запитання, надішліть їх на адресу #{mailLink}.</p>"
 
-order_canceled: Order canceled
+order_canceled: Замовлення скасовано
 
-contact_payment: "<p>Please send all questions regarding payment to #{mailLink}.</p>"
-contact_order: "<p>Please send all questions regarding the order to #{mailLink}.</p>"
+contact_payment: "<p>Усі запитання щодо оплати надсилайте на #{mailLink}.</p>"
+contact_order: "<p>Усі запитання щодо замовлення надсилайте на #{mailLink}.</p>"
 
-thanks: 'Thanks for the order!'
-contact_support: "<p>Please, contact support at #{mailLink}.</p>"
-payment_usd: "payment in US Dollars"
+thanks: 'Дякуємо за замовлення!'
+contact_support: "<p>Зв’яжіться зі службою підтримки за адресою {mailLink}.</p>"
+payment_usd: "оплата в доларах США"
 
-profile_order_link: "<p>Order information is available <a href='#{link}'>in your profile</a>.</p>"
+profile_order_link: "<p>Інформація про замовлення доступна <a href='#{link}'>у вашому профілі</a>.</p>"

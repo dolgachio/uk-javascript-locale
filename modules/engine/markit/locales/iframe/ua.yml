@@ -1,4 +1,4 @@
 open:
-  sandbox: open in sandbox
-  window: open in new window
-  download: download as zip
+  sandbox: відкрити в пісочниці
+  window: відкрити в новому вікні
+  download: завантажити як zip архів

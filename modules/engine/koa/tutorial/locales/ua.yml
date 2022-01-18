@@ -1,14 +1,14 @@
-modern_javascript_tutorial: "The Modern JavaScript Tutorial"
-subtitle: "How it's done now. From the basics to advanced topics with simple, but detailed explanations."
-part: "Part #{num}"
-more: "More…"
-contents: 'Table of contents'
-description: 'Main course contains 2 parts which cover JavaScript as a programming language and working with a browser. There are also additional series of thematic articles.'
+modern_javascript_tutorial: "Сучасний підручник з JavaScript"
+subtitle: "Перед вами підручник з JavaScript, починаючи з основ, що включає багато тонкощів JavaScript/DOM."
+part: "Частина #{num}"
+more: "Більше…"
+contents: 'Зміст'
+description: 'Основний курс містить 2 частини, які охоплюють JavaScript як мову програмування та роботу з браузером. Також є додаткові серії тематичних статей.'
 
 part3:
-  title: "Additional articles"
-  content: "List of extra topics that assume you've covered the first two parts of tutorial. There is no clear hierarchy here, you can read articles in the order you want."
+  title: "Додаткові статті"
+  content: "Список додаткових тем, які передбачають, що ви охопили перші дві частини підручника. Тут немає чіткої ієрархії, ви можете читати статті у будь-якому порядку."
 
-tutorial: Tutorial
-tutorial_map: Tutorial map
-not_translated: 'This material is only available in the following languages: #{translatedLangs}. Please, <a href="#{url}">help us</a> translate into <strong>#{currentLang.title}</strong>.'
+tutorial: Підручник
+tutorial_map: Навчальна карта
+not_translated: 'Цей матеріал доступний лише такими мовами: #{translatedLangs}. Будь ласка, <a href="#{url}">допоможіть нам</a> перекласти на <strong>#{currentLang.title}</strong>.'

@@ -1,7 +1,7 @@
-recent: A recent addition
-recent_addition: This is a recent addition to the language.
+recent: Нещодавнє доповнення
+recent_addition: Це нещодавнє доповнення до мови.
 browser:
-  value: "Examples work in the recent #{browser}."
-  none: "Not supported in JavaScript engines, or supported partially yet, requires polyfilling."
-  new: Old browsers may need polyfills.
-caniuse: "You can find the current state of support at <a href=\"https://caniuse.com/#feat=#{feat}\">https://caniuse.com/#feat=#{feat}</a>."
+  value: "Приклади працюють в останній версії браузера #{browser}."
+  none: "Не підтримується рушіями JavaScript або підтримується частково та вимагає поліфілу."
+  new: У старих браузерах може бути потрібен поліфіл.
+caniuse: "Поточний стан підтримки можна знайти на сторінці <a href=\"https://caniuse.com/#feat=#{feat}\">https://caniuse.com/#feat=#{feat}</a>."

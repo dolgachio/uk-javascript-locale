@@ -1,17 +1,17 @@
 open_task:
   sandbox:
-    tests: Open a sandbox with tests.
-    no_tests: Open a sandbox for the task.
+    tests: Відкрити пісочницю з тестами.
+    no_tests: Відкрити пісочницю для завдання.
 
 open_solution:
   sandbox:
-    tests: Open the solution with tests in a sandbox.
-    no_tests: Open the solution in a sandbox.
+    тести: Відкрити рішення із тестами в пісочниці.
+    no_tests: Відкрити рішення в пісочниці.
 
-Importance: Importance
-importance: importance
-solution: solution
-back: back to the lesson
-importance_help: How important is the task, from 1 to 5
+Importance: Важливість
+importance: важливість
+solution: рішення
+back: назад до уроку
+importance_help: Наскільки важливим є завдання, від 1 до 5
 
-task_not_found: "Task \"#{path}\" not found"
+task_not_found: "Завдання \"#{path}\" не знайдено"

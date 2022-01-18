@@ -1,13 +1,13 @@
-articles: Articles of the tutorial
-tasks: Tasks
-results: Search results
-search: Search
-find: Find
+articles: Статті підручника
+tasks: Завдання
+results: Результати пошуку
+search: Пошук
+find: Знайти
 
-shown_only_results: "Only first #{count} results are shown."
+shown_only_results: "Відображаються лише перші #{count} результатів."
 
 not_found:
-  prefix: Sorry, we couldn't find anything
-  articles: in the articles of the tutorial
-  tasks: in the tasks
+  prefix: Вибачте, ми нічого не змогли знайти
+  articles: у статтях підручника
+  tasks: у завданнях
 

@@ -1,43 +1,43 @@
-title: About the project
+title: Про проект
 text: >
-  <p>The Modern JavaScript Tutorial was created in 2007 by Ilya Kantor, and regularly updated since then. New chapters were added, outdated ones - removed, to stay fresh. The PDF version is about 1300 pages, starting from the beginning, and then to advanced topics.</p>
-  <p>It's a book, not a video, as for many people reading is faster. Also, books are easier to update, keep modern :).</p>
-  <p>The content of this tutorial is <a href="https://github.com/javascript-tutorial/en.javascript.info">open source</a> and everyone is welcome to contribute.</p>
+  <p>Посібник із сучасного JavaScript був створений у 2007 році Іллею Кантором і з тих пір регулярно оновлюється. Нові розділи були додані, застарілі - видалені, щоб підручник залишався актуальним. Версія PDF становить близько 1300 сторінок, починаючи з початку, аж до розширених тем.</p>
+  <p>Це книга, а не відео, оскільки багато людей читають швидше. Крім того, книги легше оновлювати, залишатися сучасними :).</p>
+  <p>Цей підручник має <a href="https://github.com/javascript-tutorial/en.javascript.info">відкритий вихідний код</a>, і кожен бажаючий може зробити свій внесок.</p>
 
 contacts:
-  block_title: Contacts
+  block_title: Контакти
   people:
-    ilya_kantor: Ilya Kantor
+    ilya_kantor: Ілля Кантор
 
-maintainers: Tutorial maintainers
-repo: The tutorial repository is at <a href="#{url}">#{url}</a>.
+maintainers: супроводжувачі підручникf
+repo: репозиторій підручників знаходиться за адресою <a href="#{url}">#{url}</a>.
 
 team:
-  block_title: The team
-  photo: Photo
+  block_title: Команда
+  photo: Фото
 
   members:
-    - name: "Ilya Kantor"
+    - name: "Ілля Кантор"
       profileName: 'ilya-kantor'
       url: 'https://javascript.info/profile/ilya-kantor'
       photo: '/team/iliakan.jpg'
       role: creator
-    - name: "Alexey Maximov"
+    - name: "Олексій Максимов"
       profileName: aleksey-maximov
       url: 'https://www.linkedin.com/in/amaxcz/'
       photo: '/team/amax.jpg'
       role: admin
-    - name: "Artem Beztsinniy"
+    - name: "Артем Безцінний"
       profileName: artem-beztsenniy
       url: 'https://javascript.info/profile/artem-beztsenniy'
       photo: '/team/bezart.jpg'
       role: "designer"
-    - name: "Sergey Zelenov"
+    - name: "Сергій Зеленов"
       profileName: sergey-zelenov
       url: 'https://javascript.info/profile/sergey-zelenov'
       photo: '/team/sergey.jpg'
       role: "developer_teacher"
-    - name: "Stepan Suvorov"
+    - name: "Степан Суворов"
       profileName: stepan-suvorov
       url: 'https://twitter.com/stevermeister'
       photo: '/team/stepan.jpg'
@@ -45,30 +45,30 @@ team:
     
 
   role:
-    creator: Author, trainer, JS-developer
-    admin: System Administrator
-    teacher: Teacher
-    designer: Designer
-    markup: Markup
-    developer_teacher: JS-developer, teacher
-    angular: Angular trainer
+    creator: Автор, тренер, JS-розробник
+    admin: Системний адміністратор
+    teacher: Викладач
+    designer: Дизайнер
+    markup: Верстальник
+    developer_teacher: JS-розробник, викладач
+    angular: Angular тренер
 
 issues:
-  block_title: Bug or typo? Great idea?
-  text: Please <a href="#{repoUrl}/issues/new" rel="noopener noreferrer" target="_blank">create an issue</a> on our github.
+  block_title: Помилка чи друкарська помилка? Чудова ідея?
+  text: <a href="#{repoUrl}/issues/new" rel="noopener noreferrer" target="_blank">створіть обговорення</a> у нашому github.
 
 translation:
-  block_title: Help us translate
+  block_title: Допоможіть нам перекласти
 
 contributors:
-  contributor: Contributor
-  contributors: Contributors
-  lines: Lines
-  percent: Percent
-  github_unknown: GitHub account unknown
-  show_all: Show all
+  contributor: Учасник
+  contributors: Учасники
+  lines: Рядки
+  percent: Відсоток
+  github_unknown: Обліковий запис GitHub невідомий
+  show_all: Показати всіх
   description: >
-    <p>The list below includes all contributors-authors of 10+ lines of the tutorial. The full list of contributors is available at <a href="#{url}/graphs/contributors">github</a>.</p>
-    <p>It's very easy to become listed. Just write an article or propose fixes in the <a href="#{url}">tutorial repository</a>. And get everyone's thanks.</p>
+    <p>Список нижче містить усіх учасників-авторів, які змінили чи додали 10+ рядків підручника. Повний список учасників доступний на <a href="#{url}/graphs/contributors">github</a>.</p>
+    <p>Потрапити в список дуже легко. Просто напишіть статтю або запропонуйте виправлення в <a href="#{url}">репозиторії підручника</a>. І отримайте подяку від усіх.</p>
   description_note_en:
-    <p>This is the translated version of the <a href="https://javascript.info">tutorial in English</a>.</p>
+    <p>Це перекладена версія <a href="https://javascript.info">підручника англійською мовою</a>.</p>
